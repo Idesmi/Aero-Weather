@@ -1,0 +1,49 @@
+# Translation of Aero Weather in Italian
+# Copyright (C) 2023
+# This file is distributed under the same license as the Aero.Weather package.
+# SPDX-FileCopyrightText: 2026 Enrico Belleri <kilgore.trout@idesmi.eu>
+msgid ""
+msgstr ""
+"Project-Id-Version: Aero.Weather\n"
+"Report-Msgid-Bugs-To: https://github.com/xcurx/Aero-Weather\n"
+"POT-Creation-Date: 2023-05-01 16:59-0300\n"
+"PO-Revision-Date: 2026-05-27 13:53+0200\n"
+"Last-Translator: Enrico Belleri <kilgore.trout@idesmi.eu>\n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Lokalize 26.04.1\n"
+
+#: ../contents/ui/components/WeatherData.qml
+msgid "Clear"
+msgstr "Sereno"
+
+#: ../contents/ui/components/WeatherData.qml
+msgid "Cloudy"
+msgstr "Nuvoloso"
+
+#: ../contents/ui/components/WeatherData.qml
+msgid "Drizzle"
+msgstr "Pioggerella"
+
+#: ../contents/ui/components/WeatherData.qml
+msgid "Rain"
+msgstr "Pioggia"
+
+#: ../contents/ui/components/WeatherData.qml
+msgid "Snow"
+msgstr "Neve"
+
+#: ../contents/ui/components/WeatherData.qml
+msgid "Hail"
+msgstr "Grandine"
+
+#: ../contents/ui/components/WeatherData.qml
+msgid "Showers"
+msgstr "Acquazzoni"
+
+#: ../contents/ui/components/WeatherData.qml
+msgid "Storm"
+msgstr "Temporale"
